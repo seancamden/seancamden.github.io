@@ -1,0 +1,68 @@
+﻿Peet’s Coffee & Tea, peets.com
+Webmaster
+Emeryville, CA -- 2011–2018
+Responsible for daily marketing updates to peets.com, a Magento CMS running in Amazon EC2 instances. I translate the designs from the Creative Services department into HTML using SCSS, XML, PHP, and jQuery. 
+Was integral to two complete redesigns of peets.com and saw transition from a site built with ASP, running on Microsoft IIS to one built with PHP running on Nginx.
+Worked closely with an outside agency (Interactive Accessibility) and remote developers on the peets.com ADA compliance project.
+
+Swirl Interactive, Eleven Inc, and others
+Web Developer
+San Francisco, CA -- 2010–2011
+Executed landing pages, registration forms, interactive Flash ads, and HTML email campaigns for clients such as AAA, Callaway Golf, Lennar Homes, Tuck School at Dartmouth, AARP, eBay, PayPal/BillMeLater and PG&E.
+
+Wells Fargo
+Web Consultant
+San Francisco, CA -- 2009–2010
+Developed, proposed, successfully implemented solution addressing the merger of the Wachovia and Wells Fargo intranets for the Wealth Management Marketing division.
+
+Hamilton Partners
+Production Artist, Print and Web
+Healdsburg, CA -- 2004–2009
+Worked on packaging for RadioShack’s ZipZaps, Xmods, and VEX Robotics kits. I was promoted into the Web Department, Flash-based sites and widgets for Microsoft’s Encarta brand, and HP’s small and medium business printer division. 
+Wrote CSS/HTML; developed a Bash script that, with ImageMagick and Illustrator files, created a multi-panel thumbnail of a brochure, automatically, eliminating a laborious and time-consuming Photoshop procedure.
+Developed blackboxwines.com: WordPress/jQuery, with client reviews, edits implemented, alpha, beta from Photoshop to completion in under three weeks, on deadline, for all major browsers (including IE6).
+
+Broderbund/Mattel Interactive/Riverdeep
+Associate Editor/Assistant Webmaster, Print and Web Production
+Novato, CA -- March 1999–April 2004
+As a member of the Creative Services department, I worked with Art Directors, Designers, and Engineers in various capacities such as Production Artist, Associate Editor and Assistant Webmaster. I worked on the riverdeep.net site, and the Creative Services intranet.
+Notable titles and brands I worked on include Printmaster, Calendar Creator, Print Shop, Carmen Sandiego, The Oregon Trail, Reader Rabbit, Destination Math, Destination Reading and Destination Success.
+
+All-American Printing Services
+Production Artist Digital Pre-Press
+Novato, CA -- November 1996–March 1999
+Performed every aspect of pre-press and quickly became familiar with files from many different applications (PageMaker, FrameMaker, QuarkXPress, Illustrator, Freehand, Photoshop, among others) and mediums, such as film, color-keys, plates, and devices such as digital proofers, the Xerox Docutech, the Fiery color-laser printer in a turn‑key print operation.
+Designed and implemented a virtual press schedule using two networked Macintosh 6100s, Adobe PageMaker and Timbuktu remote control software that allowed the press room and the prepress department to update the same schedule dynamically from different parts of the building. 
+
+Education 
+Mostly I've taught myself how to do this stuff. I'm easily fascinated
+(distracted) and this has lead to a repertoire that is broader than it is
+deep. But I'm pretty good at a few things, too.
+
+I'm also pretty cheap. So, while my friends were building expensive gaming rigs,
+I was turning old, hand-me-down computers (a buddy once mailed me his old
+motherboard from Hong Kong) into Web servers and file servers and
+experimenting with different flavors of Linux and Web technologies. I'm very
+happy to be running my current local servers on computers about the size of a deck of
+playing cards (I heart Raspberry Pi).
+
+But I have alwasy loved learning. Below are a few classes I've
+attended and certificates I've collected.
+
+Smashing Conference Workshop
+Advanced CSS Layouts With Flexbox and CSS Grid with Rachel Andrew
+
+O’Reilly School of Technology in association withThe University of Illinois at Urbana-Champaign
+http://www.oreillyschool.com/2011–2013
+
+Graphic Arts Institute
+San Francisco, CA
+Advanced Pagination with QuarkXPress Certificate
+Advanced Illustration with Illustrator Certificate
+Advanced Editing with Photoshop Certificate
+
+College of Marin/Indian Valley College
+Kentfield, CA/Novato, CA
+
+Self-Taught
+Mac, Linux, Windows, CLI, Bash, Vim, Regular Expressions, HTML, CSS, Sass, Git, Apache, Nginx, MySQL, Magento, WordPress
