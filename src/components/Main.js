@@ -32,7 +32,19 @@ class Main extends React.Component {
         <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">About</h2>
           <span className="image main"><img src={pic03} alt="" /></span>
-          <p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+<p>My first computer was an Atari 400 with a keyboard like a fast food cash register, no storage media, and a loosely fitting power jack. The simple programs I wrote in Basic would last long enough, if I was lucky, to show my mom before my dog, an English Sheep Dog/Bearded Collie mix named Major, would lay down on the power cord, erasing everything.</p>
+
+<p>Today, many, many computers later, I am platform agnostic but prefer to work in OS X for the well-designed GUI and seamless terminal integration. Although the un-repairability of the modern MacBook Pro is starting to get me down.</p>
+
+<p>I enthusiastically enjoy using Linux and other open source software to work and play (and also to manage the family media). My comfort on the command line dates back to the years before installing Windows 3.1 from a dozen or so floppy disks. DOS was fun, but I really love Bash.</p>
+
+<p>I taught myself HTML in the late 90s and started using it professionally just a few years later at Mattel Interactive. At the same time I worked in Digital Pre-Press and Creative Services departments doing page layout, photo-manipulation and print production. Digital production shifted gradually to the sidelines over the years, and now I look to Web Development for my main occupation.</p>
+
+<p>My text-editor of choice is Vim. I enjoy the power of CSS, jQuery, PHP, Python, and regular expressions for accomplishing a wide variety of Web objectives.</p>
+
+<p>Aside from computers, I have many other interests, not the least of which is my family. Also, writing, music, literature and art. I enjoy cooking and eating spicy food, and I love a nice cup of tea.</p>
+
+<p>A lifelong resident of Marin County, I moved to Novato in 1999 and live there still with my wife and children and two cats.</p>
           {close}
         </article>
 
