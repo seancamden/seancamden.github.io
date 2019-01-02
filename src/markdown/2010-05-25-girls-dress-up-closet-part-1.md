@@ -3,7 +3,7 @@ title: 'Girls&#8217; Dress-Up Closet &#8212; part 1'
 date: 2010-05-25T13:44:08+00:00
 author: seancamden
 layout: post
-path: 2010/05/25
+path: /2010/05/25
 ---
 <img src="http://seancamden.com/wp-content/uploads/2010/05/girls-closet3-300x281.jpg" alt="" title="Dress-up closet initial design" width="300" height="281" class="size-medium wp-image-157" />
   

@@ -3,7 +3,7 @@ title: First Steps from Print to Web Designer
 date: 2010-04-11T14:07:19+00:00
 author: seancamden
 layout: post
-path: 2010/04/11
+path: /2010/04/11
 ---
 Good design is good design. And skills developed designing for print are transferable to Web. But the tools are different, the challenges are different, and so are the possibilities. You won&#8217;t have to worry about [widows and orphans](http://en.wikipedia.org/wiki/Widows_and_orphans) so much. Your [font choices](http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html) are a lot fewer. Instead of [leading](http://en.wikipedia.org/wiki/Leading) and [tracking](http://en.wikipedia.org/wiki/Kerning) you now have [line-height](http://www.w3schools.com/css/pr_dim_line-height.asp) and [letter-spacing](http://www.w3schools.com/css/pr_text_letter-spacing.asp) (kerning isn&#8217;t adjustable with CSS). You will have to worry about things like [cross-browser compatibility](http://en.wikipedia.org/wiki/Cross-browser), not to mention [accessibility](http://forabeautifulweb.com/classes/on/accessibility), and [standards](http://www.webstandards.org/). But you&#8217;ll also have a much shorter wait to see your work published, and can interact with your users in ways that were simply impossible with print.
 

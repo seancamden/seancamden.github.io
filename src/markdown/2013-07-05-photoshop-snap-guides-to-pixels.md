@@ -3,7 +3,7 @@ title: Photoshop Snap Guides to Pixels
 date: 2013-07-05T22:10:46+00:00
 author: seancamden
 layout: post
-path: 2013/07/05
+path: /2013/07/05
 ---
 Photoshop allows you to place a guide anywhere, which can be frustrating if you do Web work and you want to cut an image by hand.
 
