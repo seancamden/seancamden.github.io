@@ -1,15 +1,8 @@
 ---
-id: 287
 title: Girls’ Dress-Up Closet — Part 6
 date: 2010-12-17T14:40:43+00:00
 author: seancamden
 layout: post
-guid: http://www.seancamden.com/?p=287
-permalink: /?p=287
-st_tiny_url:
-  - http://is.gd/iV8bs
-st_tweetmeme:
-  - 's:42:"a:2:{s:7:"tm_link";N;s:9:"url_count";i:0;}";'
 st_reddit:
   - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
 st_social_score:

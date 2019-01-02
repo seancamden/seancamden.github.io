@@ -1,15 +1,8 @@
 ---
-id: 303
 title: Girls’ Dress-Up Closet — hole template
 date: 2010-08-04T00:00:09+00:00
 author: seancamden
 layout: post
-guid: http://www.seancamden.com/?p=303
-permalink: /?p=303
-st_tiny_url:
-  - http://is.gd/Iqypch
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/9755324345";s:9:"url_count";i:0;}";'
 st_reddit:
   - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
 st_social_score:

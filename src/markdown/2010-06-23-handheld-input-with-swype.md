@@ -1,15 +1,8 @@
 ---
-id: 217
 title: Handheld Input With Swype
 date: 2010-06-23T08:51:39+00:00
 author: seancamden
 layout: post
-guid: http://www.seancamden.com/?p=217
-permalink: /?p=217
-st_twitter:
-  - "0"
-st_facebook:
-  - "0"
 st_googleplusones:
   - "0"
 ---

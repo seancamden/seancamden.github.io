@@ -1,15 +1,8 @@
 ---
-id: 292
 title: World IPV6 Day
 date: 2011-01-12T11:53:27+00:00
 author: seancamden
 layout: post
-guid: http://www.seancamden.com/?p=292
-permalink: /?p=292
-st_tiny_url:
-  - http://is.gd/XFessZ
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/9715163421";s:9:"url_count";i:0;}";'
 st_reddit:
   - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
 st_social_score:
