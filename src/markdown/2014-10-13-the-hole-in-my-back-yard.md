@@ -1,7 +1,7 @@
 ---
 title: The Hole in My Back Yard
 date: 2014-10-13T15:27:45+00:00
-path: /2014/10/13
+path: /2014/10/13/
 ---
 What&#8217;s the deal?<figure id="attachment_568" style="width: 1328px" class="wp-caption alignnone">
 

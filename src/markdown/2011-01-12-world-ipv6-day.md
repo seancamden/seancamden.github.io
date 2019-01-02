@@ -1,7 +1,7 @@
 ---
 title: World IPV6 Day
 date: 2011-01-12T11:53:27+00:00
-path: /2011/01/12
+path: /2011/01/12/
 ---
 [World IPV6 Day](http://isoc.org/wp/worldipv6day/) is the 8th of June, 2011.
   

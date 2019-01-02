@@ -1,7 +1,7 @@
 ---
 title: Playing with TextBlob
 date: 2014-01-22T22:57:55+00:00
-path: /2014/01/22
+path: /2014/01/22/
 ---
 TextBlob is a fun Python library that allows one to parse blocks of text in neat ways.
 

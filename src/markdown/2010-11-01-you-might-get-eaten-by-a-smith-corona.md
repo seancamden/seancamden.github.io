@@ -1,7 +1,7 @@
 ---
 title: You Might Get Eaten By a Smith Corona
 date: 2010-11-01T10:39:12+00:00
-path: /2010/11/01
+path: /2010/11/01/
 ---
 Fans of the classic Infocom games (Zork et al) and geeks of all stripes may appreciate the efforts of Jonathan M. Guberman and his [Automatypewriter](http://upnotnorth.net/projects/typewriter/).
   
