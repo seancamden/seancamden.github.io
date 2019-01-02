@@ -2,7 +2,6 @@
 title: Digging to China
 date: 2011-08-08T23:14:28+00:00
 author: seancamden
-layout: post
 path: /2011/08/08
 ---
 <figure id="attachment_422" style="width: 300px" class="wp-caption alignnone">[<img src="http://www.seancamden.com/wp-content/uploads/2011/08/ElmerFudd.jpg" alt="Elmer Fudd and Bugs Bunny" title="ElmerFudd" width="300" height="232" class="size-full wp-image-422" />](http://www.seancamden.com/wp-content/uploads/2011/08/ElmerFudd.jpg)<figcaption class="wp-caption-text">How could these guys have steered me wrong?</figcaption></figure> 

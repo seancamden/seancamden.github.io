@@ -2,7 +2,6 @@
 title: Good Movies on Netflix Streaming
 date: 2012-05-06T18:36:47+00:00
 author: seancamden
-layout: post
 path: /2012/05/06
 ---
 I just added a bunch of movies to my Netflix Streaming Queue. A few of them I&#8217;ve seen already but will enjoy watching again. 

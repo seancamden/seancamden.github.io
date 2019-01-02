@@ -2,7 +2,6 @@
 title: Git Revert Commit Reset Hard Origin Master Saved My Bacon
 date: 2012-03-30T12:38:22+00:00
 author: seancamden
-layout: post
 path: /2012/03/30
 ---
 [<img class="alignnone size-full wp-image-428" title="twittergithub logo" src="http://www.seancamden.com/wp-content/uploads/2012/03/twittergithub2_reasonably_small.png" alt="twittergithub logo" width="128" height="128" />](http://www.seancamden.com/wp-content/uploads/2012/03/twittergithub2_reasonably_small.png)

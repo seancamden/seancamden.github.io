@@ -2,7 +2,6 @@
 title: 'Girls&#8217; Dress-Up Closet — Part 5'
 date: 2010-12-08T13:56:02+00:00
 author: seancamden
-layout: post
 path: /2010/12/08
 ---
 Finally made some progress. On track to be done by Xmas!

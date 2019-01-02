@@ -2,7 +2,6 @@
 title: Apple 1 Sold at Auction
 date: 2010-11-24T11:11:29+00:00
 author: seancamden
-layout: post
 path: /2010/11/24
 ---
 Apple computer sells for $210,700

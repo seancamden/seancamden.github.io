@@ -2,7 +2,6 @@
 title: Girls’ Dress-Up Closet — Part 6
 date: 2010-12-17T14:40:43+00:00
 author: seancamden
-layout: post
 path: /2010/12/17
 ---
 Progress!
