@@ -1,7 +1,6 @@
 ---
 title: 'Girls&#8217; Dress-Up Closet — Part 4'
 date: 2010-06-11T11:48:39+00:00
-author: seancamden
 path: /2010/06/11
 ---
 First experimental cut for the rounded tops made.

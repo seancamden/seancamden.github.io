@@ -1,7 +1,6 @@
 ---
 title: My Old Friends Have Something To Say
 date: 2013-07-28T22:20:56+00:00
-author: seancamden
 path: /2013/07/28
 ---
 Got these as an Xmas gift half a year ago, and already they&#8217;re coming apart.

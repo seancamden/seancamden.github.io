@@ -1,7 +1,6 @@
 ---
 title: What does not kill me, makes me stronger.
 date: 2011-02-03T23:05:40+00:00
-author: seancamden
 path: /2011/02/03
 ---
 &#8220;What does not kill me, makes me stronger.&#8221; is idealistic clap-trap. No offense intended to Mr. Nietzsche. Probably the original phrase, &#8220;[was ihn nicht umbringt, macht ihn stärker](http://en.wikiquote.org/wiki/Friedrich_Nietzsche#Ecce_Homo_.281888.29),&#8221; simply loses something in the translation.

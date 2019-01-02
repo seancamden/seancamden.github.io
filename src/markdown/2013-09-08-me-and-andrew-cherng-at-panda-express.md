@@ -1,7 +1,6 @@
 ---
 title: Me and Andrew Cherng at Panda Express
 date: 2013-09-08T11:22:04+00:00
-author: seancamden
 path: /2013/09/08
 ---
 Recently, my kids&#8217; doctor asked me how often we eat fast food and I said, &#8216;never.&#8217; Then later I wondered if Panda Express counted. I suppose it could, depending on what you order, so maybe I&#8217;ll mention it next time we&#8217;re at the doctor&#8217;s office. But we will continue to eat there from time to time, because it&#8217;s tasty and it seems healthy, for the most part.

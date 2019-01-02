@@ -1,7 +1,6 @@
 ---
 title: What to Do with a Recalled Crib
 date: 2011-03-08T15:06:48+00:00
-author: seancamden
 path: /2011/03/08
 ---
 Was I going to throw a recalled crib, a crib deemed unsafe for a baby to sleep in, into the landfill?
