@@ -3,8 +3,6 @@ title: Handheld Input With Swype
 date: 2010-06-23T08:51:39+00:00
 author: seancamden
 layout: post
-st_googleplusones:
-  - "0"
 ---
 <img src="http://www.seancamden.com/wp-content/uploads/2010/06/oie_Screen_shot_2010_06_23_at_8.33.19_AM.png" alt="" title="swype logo" width="157" height="54" class="alignnone size-full wp-image-218" />
   

@@ -3,20 +3,6 @@ title: Good Movies on Netflix Streaming
 date: 2012-05-06T18:36:47+00:00
 author: seancamden
 layout: post
-st_tiny_url:
-  - http://is.gd/TkQNe2
-st_twitter:
-  - "0"
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - "0"
-st_last_socialized:
-  - "1390051801"
-st_facebook:
-  - "0"
-st_googleplusones:
-  - "0"
 ---
 I just added a bunch of movies to my Netflix Streaming Queue. A few of them I&#8217;ve seen already but will enjoy watching again. 
 

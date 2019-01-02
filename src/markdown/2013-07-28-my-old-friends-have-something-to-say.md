@@ -3,20 +3,6 @@ title: My Old Friends Have Something To Say
 date: 2013-07-28T22:20:56+00:00
 author: seancamden
 layout: post
-st_tiny_url:
-  - http://is.gd/LZMzYU
-st_twitter:
-  - "0"
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - "0"
-st_last_socialized:
-  - "1390030155"
-st_facebook:
-  - "0"
-st_googleplusones:
-  - "0"
 ---
 Got these as an Xmas gift half a year ago, and already they&#8217;re coming apart.
 

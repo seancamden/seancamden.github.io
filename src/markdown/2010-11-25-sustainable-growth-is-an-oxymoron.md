@@ -3,22 +3,6 @@ title: Sustainable Growth is an Oxymoron
 date: 2010-11-25T11:42:50+00:00
 author: seancamden
 layout: post
-st_tiny_url:
-  - http://is.gd/hMq1i
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/9806287771";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - "0"
-st_last_socialized:
-  - "1390054881"
-st_twitter:
-  - "0"
-st_facebook:
-  - "0"
-st_googleplusones:
-  - "0"
 ---
 > [<img src="http://www.seancamden.com/wp-content/uploads/2010/11/8845gov3breath250_live-2.gif" alt="The Keeling Curve shows that both humans and plants affect atmospheric CO2 concentration." title="The Keeling Curve shows that both humans and plants affect atmospheric CO2 concentration." width="250" height="255" class="alignnone size-full wp-image-270" />](http://www.seancamden.com/wp-content/uploads/2010/11/8845gov3breath250_live-2.gif)
 > 

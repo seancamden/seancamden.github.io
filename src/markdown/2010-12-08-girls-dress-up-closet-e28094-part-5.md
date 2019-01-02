@@ -3,22 +3,6 @@ title: 'Girls&#8217; Dress-Up Closet — Part 5'
 date: 2010-12-08T13:56:02+00:00
 author: seancamden
 layout: post
-st_tiny_url:
-  - http://is.gd/iphQr
-st_tweetmeme:
-  - 's:42:"a:2:{s:7:"tm_link";N;s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - "0"
-st_last_socialized:
-  - "1390063551"
-st_twitter:
-  - "0"
-st_facebook:
-  - "0"
-st_googleplusones:
-  - "0"
 ---
 Finally made some progress. On track to be done by Xmas!
   

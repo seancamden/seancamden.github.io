@@ -3,20 +3,6 @@ title: Samba on Raspberry Pi with Arch Linux
 date: 2012-11-04T11:09:11+00:00
 author: seancamden
 layout: post
-st_tiny_url:
-  - http://is.gd/z0vwdO
-st_twitter:
-  - "0"
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - "0"
-st_last_socialized:
-  - "1390063551"
-st_facebook:
-  - "0"
-st_googleplusones:
-  - "0"
 ---
 [<img src="http://www.seancamden.com/wp-content/uploads/2012/11/raspberrypi1.jpeg" alt="" title="raspberrypi" width="204" height="247" class="alignnone size-full wp-image-490" />](http://www.seancamden.com/wp-content/uploads/2012/11/raspberrypi1.jpeg)
   

@@ -3,17 +3,6 @@ title: The Hole in My Back Yard
 date: 2014-10-13T15:27:45+00:00
 author: seancamden
 layout: post
-st_tiny_url:
-  - http://is.gd/qoZcbH
-st_twitter:
-  - "0"
-st_reddit:
-  - "0"
-st_social_score:
-  - "0"
-st_last_socialized:
-  - "0"
-image: /wp-content/uploads/2014/10/hole-in-my-back-yard-01-under-the-hydrangeas-672x372.jpg
 ---
 What&#8217;s the deal?<figure id="attachment_568" style="width: 1328px" class="wp-caption alignnone">
 

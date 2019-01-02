@@ -3,22 +3,6 @@ title: Recovered Wood
 date: 2011-04-09T16:26:39+00:00
 author: seancamden
 layout: post
-st_tiny_url:
-  - http://is.gd/dXac2p
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/9771382047";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - "0"
-st_last_socialized:
-  - "1390051801"
-st_twitter:
-  - "0"
-st_facebook:
-  - "0"
-st_googleplusones:
-  - "0"
 ---
 [<img src="http://www.seancamden.com/wp-content/uploads/2011/04/recovered-wood-skp-300x243.jpg" alt="A Google Sketchup file filled with the wood recovered from a recalled crib." title="recovered-wood-skp" width="300" height="243" class="alignnone size-medium wp-image-348" srcset="http://seancamden.cosm/wp-content/uploads/2011/04/recovered-wood-skp-300x243.jpg 300w, http://seancamden.cosm/wp-content/uploads/2011/04/recovered-wood-skp.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.seancamden.com/wp-content/uploads/2011/04/recovered-wood-skp.jpg)
 
