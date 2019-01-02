@@ -3,6 +3,7 @@ title: Girls’ Dress-Up Closet — hole template
 date: 2010-08-04T00:00:09+00:00
 author: seancamden
 layout: post
+path: 2010/08/04
 ---
 <figure id="attachment_311" style="width: 300px" class="wp-caption alignnone">[<img src="http://www.seancamden.com/wp-content/uploads/2011/01/2010-08-04-12.41.03-300x225.jpg" alt="" title="2010-08-04 12.41.03" width="300" height="225" class="alignnone size-medium wp-image-304" srcset="http://seancamden.cosm/wp-content/uploads/2011/01/2010-08-04-12.41.03-300x225.jpg 300w, http://seancamden.cosm/wp-content/uploads/2011/01/2010-08-04-12.41.03-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.seancamden.com/wp-content/uploads/2011/01/2010-08-04-12.41.03.jpg)<figcaption class="wp-caption-text">First, scribe the pattern with a compass.</figcaption></figure>
   

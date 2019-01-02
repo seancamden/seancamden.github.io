@@ -3,6 +3,7 @@ title: The Humble Frozenbyte Bundle
 date: 2011-04-26T10:11:40+00:00
 author: seancamden
 layout: post
+path: 2011/04/26
 ---
 [<img src="http://www.seancamden.com/wp-content/uploads/2011/04/humble-bundle-logo.png" alt="The Humble Frozenbyte Bundle" title="humble-bundle-logo" width="625" height="84" class="alignnone size-full wp-image-395" srcset="http://seancamden.cosm/wp-content/uploads/2011/04/humble-bundle-logo.png 625w, http://seancamden.cosm/wp-content/uploads/2011/04/humble-bundle-logo-300x40.png 300w" sizes="(max-width: 625px) 100vw, 625px" />](http://www.humblebundle.com/)
 

@@ -3,6 +3,7 @@ title: 'Girls&#8217; Dress-Up Closet &mdash; Part 2'
 date: 2010-06-08T10:21:06+00:00
 author: seancamden
 layout: post
+path: 2010/06/08
 ---
 Made the cuts for the bottom rails. Made trickier than it should have been just because my table saw, a cheap Ryobi, won&#8217;t make clean cuts. So I actually made them with my Porter-Cable router, routing off about a half inch at a pass.
   
