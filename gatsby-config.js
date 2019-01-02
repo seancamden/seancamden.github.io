@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Sean Camden",
-    author: "Hunter Chang",
-    description: "The personal site of Sean Camden"
+    title: 'Sean Camden',
+    author: 'Hunter Chang',
+    description: 'The personal site of Sean Camden',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -18,7 +18,15 @@ module.exports = {
         icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}src/markdown/`,
+        name: 'markdown-pages',
+      },
+    },
+    `gatsby-transformer-remark`,
     'gatsby-plugin-sass',
-    'gatsby-plugin-offline'
+    'gatsby-plugin-offline',
   ],
 }
