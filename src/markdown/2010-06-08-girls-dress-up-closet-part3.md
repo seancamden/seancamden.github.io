@@ -1,7 +1,7 @@
 ---
 title: 'Girls&#8217; Dress-Up Closet &mdash; Part 3'
 date: 2010-06-08T13:27:00+00:00
-path: /2010/06/08/
+path: /2010/06/08
 ---
 A couple minor adjustments were needed, but otherwise things are fitting pretty well.
   

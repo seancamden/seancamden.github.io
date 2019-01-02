@@ -1,7 +1,7 @@
 ---
 title: 'Cats and Computers Don&#8217;t Mix Well'
 date: 2010-04-21T20:39:46+00:00
-path: /2010/04/21/
+path: /2010/04/21
 ---
 Came home to discover the &#8220;3&#8221; key missing from my computer today. Upon closer inspection I also discovered evidence of [cat-typing](http://www.bitboost.com/pawsense/).
 

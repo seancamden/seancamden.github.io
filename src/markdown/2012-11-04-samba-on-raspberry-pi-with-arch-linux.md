@@ -1,7 +1,7 @@
 ---
 title: Samba on Raspberry Pi with Arch Linux
 date: 2012-11-04T11:09:11+00:00
-path: /2012/11/04/
+path: /2012/11/04
 ---
 [<img src="http://www.seancamden.com/wp-content/uploads/2012/11/raspberrypi1.jpeg" alt="" title="raspberrypi" width="204" height="247" class="alignnone size-full wp-image-490" />](http://www.seancamden.com/wp-content/uploads/2012/11/raspberrypi1.jpeg)
   
